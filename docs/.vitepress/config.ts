@@ -18,7 +18,7 @@ export default defineConfig({
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Guide', link: '/guide/introduction' },
-            { text: 'Features', link: '/features/overview' },
+            { text: 'Features', link: '/features/unggulan' },
             { text: 'API Reference', link: '/api/overview' },
             { text: 'FAQ', link: '/faq' },
         ],
@@ -65,7 +65,8 @@ export default defineConfig({
                 {
                     text: 'Features',
                     items: [
-                        { text: 'Overview', link: '/features/overview' },
+                        { text: 'Fitur Unggulan 🇮🇩', link: '/features/unggulan' },
+                        { text: 'Overview (EN)', link: '/features/overview' },
                         { text: 'Manga Reader', link: '/features/reader' },
                         { text: 'Scraping Engine', link: '/features/scraping' },
                         { text: 'User System', link: '/features/user-system' },
