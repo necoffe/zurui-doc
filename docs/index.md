@@ -32,9 +32,9 @@ features:
   - icon: 🛡️
     title: Admin Dashboard
     details: Comprehensive admin panel with manga/chapter management, user management, report handling, scraper controls, and cleanup tools.
-  - icon: ⚡
-    title: High Performance
-    details: Optimized database queries, lazy loading images, CDN-ready asset pipeline, and efficient caching for fast page loads.
+  - icon: 🚀
+    title: One-Click Web Installer
+    details: 7-step browser installer with license activation, auto requirements check, database setup, admin creation, and auto symlink — no terminal needed.
   - icon: 🎨
     title: Modern UI/UX
     details: Glassmorphism design, dark/light mode, responsive layout, micro-animations, and premium aesthetics powered by Tailwind CSS.

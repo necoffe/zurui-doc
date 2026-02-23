@@ -86,6 +86,15 @@ A complete list of all features in Zurui CMS.
 - Tailwind CSS v4
 - Alpine.js interactivity
 
+### 🚀 Web Installer
+- **7-step wizard** — License → Requirements → Permissions → Configuration → Database → Admin → Finish
+- **License verification** — Validates purchase code against License Server before installation
+- **Auto requirements check** — Verifies PHP version, extensions, and folder permissions
+- **Database setup from browser** — Enter credentials and run migrations with one click
+- **Admin account creation** — Set up your first admin without terminal access
+- **Auto symlink** — Creates `storage` symlink automatically
+- **Self-destructing** — Installer files are deleted after completion for security
+
 ## Feature Matrix
 
 | Feature | User | Admin |
